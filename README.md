@@ -1,4 +1,4 @@
-# Sistemas-Operativos-III-Ing.-Adrian-Alcantara-Reyes-
+# Sistemas Operativos III (Ing. Adrian Alcantara Reyes)
 
 Comandos utilizados
 
