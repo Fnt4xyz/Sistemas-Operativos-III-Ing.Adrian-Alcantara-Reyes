@@ -9,6 +9,10 @@ Comandos usados practica 1
 
 Comandos usados practica 2
 
+
+
+Comandos usados practica 3
+
 1. hostname
 2. echo
 3. sudo
@@ -21,9 +25,7 @@ Comandos usados practica 2
 10. id
 11. grep
 
-Comandos usados practica 3
-
 Comandos usados practica 4
 
-Comandos usados practica 5
+
 
