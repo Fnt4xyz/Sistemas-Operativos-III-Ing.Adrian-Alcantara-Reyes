@@ -27,5 +27,14 @@ Comandos usados practica 3
 
 Comandos usados practica 4
 
-
+1. hostname
+2. echo
+3. mkdir
+4. cd
+5. vi
+6. cat
+7. chmod
+8. ls
+9. cp
+10. rm
 
