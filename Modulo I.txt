@@ -45,3 +45,4 @@ Comandos usados practica 4
 8. ls
 9. cp
 10. rm
+11. pwd
