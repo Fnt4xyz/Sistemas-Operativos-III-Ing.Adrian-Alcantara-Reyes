@@ -6,6 +6,9 @@ Comandos usados practica 1
 
 1. hostname
 2. echo
+3. dnf
+4. btop
+5. rm
 
 Comandos usados practica 2
 
