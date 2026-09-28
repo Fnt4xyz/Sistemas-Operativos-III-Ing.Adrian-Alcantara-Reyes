@@ -16,23 +16,19 @@ Comandos usados practica 2
 
 1. hostname
 2. echo
-3. ip a
-4. nmtui
-5. nmcli
-6. ping
-7. nslookup
-8. nano
+3. crontab
+4. dnf
+5. reboot
+6. ls
+7. at
+8. rm
 9. sudo
 
 Comandos usados practica 3
 
 1. hostname
 2. echo
-3. sudo
-4. useradd
-5. passwd
-6. usermod
-7. groupadd
+
 8. userdel
 9. groupdel
 10. id
