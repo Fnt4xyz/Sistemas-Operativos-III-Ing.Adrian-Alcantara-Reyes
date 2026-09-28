@@ -28,8 +28,3 @@ Comandos usados practica 3
 
 1. hostname
 2. echo
-
-8. userdel
-9. groupdel
-10. id
-11. grep
