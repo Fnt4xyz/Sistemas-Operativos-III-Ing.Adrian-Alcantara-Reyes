@@ -28,3 +28,12 @@ Comandos usados practica 3
 
 1. hostname
 2. echo
+3. sudo
+4. mkdir
+5. mount
+6. umount
+7. ls
+8. cd
+9. touch
+10. lsblk
+11. mkfs
