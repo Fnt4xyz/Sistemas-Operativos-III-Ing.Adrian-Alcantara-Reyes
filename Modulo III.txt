@@ -1,0 +1,15 @@
+nano
+
+grub2-mkconfig
+
+grep
+
+mount
+
+chroot
+
+passwd
+
+touch
+
+reboot
