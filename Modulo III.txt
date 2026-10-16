@@ -33,12 +33,13 @@ Comandos usados practica 3
 
 1. hostname
 2. date
-3. 
-4. 
-5. 
-6. 
-7. 
-8.
-9. 
-10.
-11. 
+3. ping
+4. systemctl
+5. ssh
+6. ssh-keygen
+7. ssh-copy-id
+8. ls
+9. cat
+10. sudo 
+11. nmcli
+12. ip a
