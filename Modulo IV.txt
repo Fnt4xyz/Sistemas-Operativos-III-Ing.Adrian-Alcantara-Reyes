@@ -1,0 +1,27 @@
+# Sistemas Operativos III (Ing. Adrian Alcantara Reyes)
+
+Comandos utilizados
+
+Comandos usados practica 1
+
+1. hostname
+2. date
+3. ls
+4. cat
+5. sudo
+
+Comandos usados practica 2
+
+1. hostname
+2. date
+3. ls
+4. cat
+5. sudo 
+
+Comandos usados practica 3
+
+1. hostname
+2. date
+3. ls
+4. cat
+5. sudo 
