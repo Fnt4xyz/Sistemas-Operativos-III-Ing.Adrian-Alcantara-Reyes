@@ -6,9 +6,15 @@ Comandos usados practica 1
 
 1. hostname
 2. date
-3. ls
-4. cat
+3. firewall-cmd
+4. httpd
 5. sudo
+6. systemctl
+7. dnf
+8. nano
+9. echo
+10. tee
+11. mkdir
 
 Comandos usados practica 2
 
