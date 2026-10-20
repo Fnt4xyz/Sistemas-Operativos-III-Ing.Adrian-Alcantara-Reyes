@@ -29,8 +29,7 @@ Comandos usados practica 2
 9. nano
 10. tail
 11. printf
-12. echo
-13. dnf
+12. dnf
 
 Comandos usados practica 3
 
