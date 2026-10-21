@@ -48,3 +48,4 @@ Comandos usados practica 3
 13. firewall-cmd
 14. lpstat
 15. dnf
+16. echo
