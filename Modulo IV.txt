@@ -15,6 +15,7 @@ Comandos usados practica 1
 9. echo
 10. tee
 11. mkdir
+12. clear
 
 Comandos usados practica 2
 
@@ -30,6 +31,7 @@ Comandos usados practica 2
 10. tail
 11. printf
 12. dnf
+13. clear
 
 Comandos usados practica 3
 
@@ -49,3 +51,4 @@ Comandos usados practica 3
 14. lpstat
 15. dnf
 16. echo
+17. clear
