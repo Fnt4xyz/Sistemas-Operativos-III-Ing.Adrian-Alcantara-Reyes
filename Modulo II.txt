@@ -11,6 +11,7 @@ Comandos usados practica 1
 5. rm
 6. ls
 7. sudo
+8. clear
 
 Comandos usados practica 2
 
@@ -23,6 +24,7 @@ Comandos usados practica 2
 7. at
 8. rm
 9. sudo
+10. clear
 
 Comandos usados practica 3
 
@@ -37,3 +39,4 @@ Comandos usados practica 3
 9. touch
 10. lsblk
 11. mkfs
+12. clear
