@@ -6,7 +6,7 @@ Comandos usados practica 1
 
 1. hostname
 2. date
-3. ip a
+3. ip
 4. dnf
 5. sudo
 6. systemctl
@@ -27,17 +27,19 @@ Comandos usados practica 2
 
 1. hostname
 2. date
-3. 
-4. 
-5.  
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-clear
+3. hostnamectl
+4. ssh
+5. ip
+6. dnf
+7. systemctl
+8. firewall-cmd
+9. passwd
+10. reboot
+11. ping
+12. pcs
+13. sudo
+13. clear
+
 Comandos usados practica 3
 
 1. hostname
