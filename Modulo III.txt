@@ -15,6 +15,7 @@ Comandos usados practica 1
 9. mount
 10. grep
 11. grub2-mkconfig
+12. clear
 
 Comandos usados practica 2
 
@@ -28,6 +29,7 @@ Comandos usados practica 2
 8. ifconfig
 9. ls
 10. nano
+11. clear
 
 Comandos usados practica 3
 
@@ -43,3 +45,4 @@ Comandos usados practica 3
 10. sudo 
 11. nmcli
 12. ip a
+13. clear
