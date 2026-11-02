@@ -20,18 +20,15 @@ Comandos usados practica 2
 
 1. hostname
 2. date
-3. hostnamectl
+3. iptables
 4. ssh
-5. ip
+5. sudo
 6. dnf
 7. systemctl
 8. firewall-cmd
-9. passwd
-10. reboot
-11. ping
-12. pcs
-13. sudo
-13. clear
+9. curl
+10. ftp
+11. clear
 
 Comandos usados practica 3
 
