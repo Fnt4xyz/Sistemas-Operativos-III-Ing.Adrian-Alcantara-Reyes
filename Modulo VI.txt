@@ -46,3 +46,20 @@ Comandos usados practica 3
 12. curl
 13. pcs
 14. clear
+
+Comandos usados practica 3
+
+1. hostname
+2. date
+3. ssh
+4. ip
+5. dnf
+6. systemctl
+7. firewall-cmd
+8. echo
+9. tee
+10. nano
+11. ping
+12. curl
+13. pcs
+14. clear
