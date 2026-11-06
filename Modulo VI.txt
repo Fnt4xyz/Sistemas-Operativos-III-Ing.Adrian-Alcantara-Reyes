@@ -68,3 +68,4 @@ Comandos usados practica 4
 10. ls
 11. nano
 12. clear
+13. sudo
