@@ -56,3 +56,4 @@ Comandos usados practica 3
 12. curl
 13. pcs
 14. clear
+15 sudo
