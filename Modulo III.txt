@@ -30,6 +30,7 @@ Comandos usados practica 2
 9. ls
 10. nano
 11. clear
+12. sudo
 
 Comandos usados practica 3
 
