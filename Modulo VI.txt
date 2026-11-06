@@ -37,15 +37,22 @@ Comandos usados practica 3
 3. ssh
 4. ip
 5. dnf
-6. systemctl
-7. firewall-cmd --------- *
+6. snort
+7. make
 8. echo
-9. tee
+9. chmod
 10. nano
 11. ping
-12. curl
-13. pcs
+12. tar
+13. wget
 14. clear
+15. nc
+16. ldconfig
+17. git
+18. cd
+19. export
+20. ln
+21. sudo
 
 Comandos usados practica 4
 
