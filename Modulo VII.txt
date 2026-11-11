@@ -1,1 +1,20 @@
 
+
+
+ip
+ping
+dnf
+systemctl
+mkdir
+touch
+ls
+chown
+chmod
+cp
+nano
+exportfs
+firewall-cmd
+mount
+umount
+findmnt
+reboot
