@@ -30,15 +30,27 @@ Comandos usados practica 2
 1. hostname
 2. date
 3. chmod
-4. tar
-5. echo
-6. read
+4. systemctl
+5. getenforce
+6. dnf
 7. cat
-8. ifconfig
+8. ip
 9. ls
 10. nano
 11. clear
 12. sudo
+13. useradd
+14. groupadd
+15. passwd
+16. mkdir
+17. chown
+18. semanage
+19. restorecon
+20. touch
+21. testparm
+22. smbpasswd
+23. firewall-cmd
+24. smbclient
 
 Comandos usados practica 3
 
