@@ -4,47 +4,36 @@ Comandos utilizados
 
 Comandos usados practica 1
 
-1. hostname
-2. echo
+1. echo
 
 Comandos usados practica 2
 
-1. hostname
+1. nano
 2. echo
-3. ip a
+3. ip
 4. nmtui
 5. nmcli
 6. ping
 7. nslookup
-8. nano
-9. sudo
-10. clear
 
 Comandos usados practica 3
 
-1. hostname
+1. grep
 2. echo
-3. sudo
+3. id
 4. useradd
 5. passwd
 6. usermod
 7. groupadd
 8. userdel
 9. groupdel
-10. id
-11. grep
-12. clear
 
 Comandos usados practica 4
 
-1. hostname
+1. rm
 2. echo
 3. mkdir
-4. cd
+4. cp
 5. vi
 6. cat
 7. chmod
-8. ls
-9. cp
-10. rm
-11. clear
