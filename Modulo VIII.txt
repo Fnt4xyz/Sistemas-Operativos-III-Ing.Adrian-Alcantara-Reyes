@@ -1,0 +1,57 @@
+# Sistemas Operativos III (Ing. Adrian Alcantara Reyes)
+
+Comandos utilizados
+
+Comandos usados practica 1
+
+1. hostname
+2. date
+3. sudo
+4. nano
+5. docker
+6. mkdir
+7. dnf
+8. ping
+9. nano
+10. systemctl
+11. ls
+12. clear
+13. mkdir
+14. ping
+
+Comandos usados practica 2
+
+1. hostname
+2. date
+3. sudo
+4. systemctl
+5. docker
+6. clear
+
+Comandos usados practica 3
+
+1. hostname
+2. date
+3. useradd
+4. systemctl
+5. hostnamectl
+6. nano
+7. getenforce
+8. firewall-cmd
+9. dnf
+10. sudo 
+11. nmcli
+12. ip
+13. clear
+14. wget
+15. rpm
+16. klist
+17. kinit
+18. testparm
+19. samba-tool
+20. chpasswd
+21. smbclient
+22. whoami
+23. nslookup
+24. sha256sum
+25. host
