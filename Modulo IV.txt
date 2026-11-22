@@ -4,42 +4,34 @@ Comandos utilizados
 
 Comandos usados practica 1
 
-1. hostname
-2. date
+1. mkdir
+2. tee
 3. firewall-cmd
 4. httpd
-5. sudo
+5. echo
 6. systemctl
 7. dnf
 8. nano
-9. echo
-10. tee
-11. mkdir
-12. clear
 
 Comandos usados practica 2
 
-1. hostname
-2. date
+1. dnf
+2. tail
 3. s-nail
 4. postmap
-5. sudo 
+5. printf 
 6. chmod
 7. postfix
 8. systemctl
 9. nano
-10. tail
-11. printf
-12. dnf
-13. clear
 
 Comandos usados practica 3
 
-1. hostname
-2. date
+1. dnf
+2. echo
 3. ls
 4. systemctl
-5. sudo 
+5. lpstat 
 6. nano
 7. lpadmin
 8. cupsenable
@@ -48,7 +40,3 @@ Comandos usados practica 3
 11. echo
 12. ippfind
 13. firewall-cmd
-14. lpstat
-15. dnf
-16. echo
-17. clear
