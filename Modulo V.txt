@@ -4,11 +4,11 @@ Comandos utilizados
 
 Comandos usados practica 1
 
-1. hostname
-2. date
+1. crontab
+2. chmod
 3. ip
 4. dnf
-5. sudo
+5. nano
 6. systemctl
 7. ssh
 8. ssh-keygen
@@ -17,16 +17,11 @@ Comandos usados practica 1
 11. cd
 12. touch
 13. rsync
-14. nano
-15. chmod
-16. crontab
-17. ls
-18. clear
 
 Comandos usados practica 2
 
-1. hostname
-2. date
+1. pcs
+2. ping
 3. hostnamectl
 4. ssh
 5. ip
@@ -35,25 +30,17 @@ Comandos usados practica 2
 8. firewall-cmd
 9. passwd
 10. reboot
-11. ping
-12. pcs
-13. sudo
-13. clear
 
 Comandos usados practica 3
 
-1. hostname
-2. date
+1. systemctl
+2. dnf
 3. ssh
 4. ip
-5. dnf
-6. systemctl
+5. pcs
+6. curl
 7. firewall-cmd
 8. echo
 9. tee
 10. nano
 11. ping
-12. curl
-13. pcs
-14. clear
-15 sudo
