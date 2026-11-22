@@ -4,46 +4,32 @@ Comandos utilizados
 
 Comandos usados practica 1
 
-1. hostname
-2. date
-3. sudo
+1. grep
+2. mount
+3. grub2-mkconfig
 4. nano
 5. touch
 6. reboot
 7. chroot
 8. passwd
-9. mount
-10. grep
-11. grub2-mkconfig
-12. clear
 
 Comandos usados practica 2
 
-1. hostname
-2. date
+1. nano
+2. ifconfig
 3. chmod
 4. tar
 5. echo
 6. read
 7. cat
-8. ifconfig
-9. ls
-10. nano
-11. clear
-12. sudo
 
 Comandos usados practica 3
 
-1. hostname
-2. date
+1. nmcli
+2. ip
 3. ping
 4. systemctl
 5. ssh
 6. ssh-keygen
 7. ssh-copy-id
-8. ls
-9. cat
-10. sudo 
-11. nmcli
-12. ip a
-13. clear
+8. cat
