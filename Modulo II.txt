@@ -4,39 +4,27 @@ Comandos utilizados
 
 Comandos usados practica 1
 
-1. hostname
+1. rm
 2. echo
 3. dnf
 4. btop
-5. rm
-6. ls
-7. sudo
-8. clear
 
 Comandos usados practica 2
 
-1. hostname
+1. rm
 2. echo
 3. crontab
 4. dnf
 5. reboot
-6. ls
-7. at
-8. rm
-9. sudo
-10. clear
+6. at
 
 Comandos usados practica 3
 
-1. hostname
+1. mkfs
 2. echo
 3. sudo
 4. mkdir
 5. mount
 6. umount
-7. ls
-8. cd
-9. touch
-10. lsblk
-11. mkfs
-12. clear
+7. touch
+8. lsblk
